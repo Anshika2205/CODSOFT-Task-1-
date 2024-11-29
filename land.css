@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .hero {
+    background-image: url("https://img.pikbest.com/ai/illus_our/20230414/22f0828d0acdb9835438324953445cfb.jpg!w700wp"); 
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+  }
+  .hero h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+  }
+  .hero p {
+    font-size: 1.2em;
+  }
+  .cta-button {
+    display: inline-block;
+    background-color: #c0392b;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+  }
+  .menu-section {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  .menu-section h2 {
+    font-size: 2em;
+    color: #c0392b;
+    margin-bottom: 30px;
+  }
+  .menu-item {
+    margin-bottom: 20px;
+  }
+  .menu-item h3 {
+    font-size: 1.5em;
+    color: #333;
+  }  
+  .menu-item p {
+    color: #666;
+    font-size: 1em;
+  }
+  .footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
